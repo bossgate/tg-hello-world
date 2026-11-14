@@ -1,0 +1,13 @@
+{
+  "id": "hello-world",
+  "title": "Hello World",
+  "version": "1.0.0",
+  "summary": "A tiny free demo module for testing the Trongate Module Market.",
+  "description": "Adds a /hello_world page that says hello. Use it to test free (open-source) downloads from the marketplace.",
+  "license": "MIT",
+  "authors": ["bossgate"],
+  "homepage": "https://github.com/bossgate/tg-hello-world",
+  "category": "Demo",
+  "tags": ["demo", "example", "starter"],
+  "trongate_version": "2.x"
+}
